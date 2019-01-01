@@ -1,0 +1,6 @@
+echo "# UnitTestApp_Angular6" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/vick1942/UnitTestApp_Angular6.git
+git push -u origin master
